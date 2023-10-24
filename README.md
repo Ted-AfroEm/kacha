@@ -1,2 +1,2 @@
 # kacha
-This is a landing page for kacha financial services provider in Ethiopia.
+Kacha digital financial services provider in Ethiopia.
