@@ -66,7 +66,6 @@ Kacha's digital financial service has been carefully designed to meet the needs 
 - Featured in
 - How it works
 - Features
-- Current Transaction Volume
 - Partnerships
 - Services Provided
 - How to get started
