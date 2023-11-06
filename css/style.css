@@ -232,7 +232,7 @@
 /* Footer */
 /***********************/
 .footer {
-  padding: 12.8rem 0;
+  padding: 9.6rem 0;
   border-top: 1px solid #eee;
 }
 .grid--footer {
@@ -290,5 +290,21 @@
 .footer-link:hover,
 .footer-link:active {
   color: #555;
+}
+/***********************/
+
+/***********************/
+/* Features Section */
+/***********************/
+.section-cta {
+  padding: 9.6rem;
+}
+
+.download-cta-badge {
+  /* height: 4.4rem; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  justify-content: center;
 }
 /***********************/
